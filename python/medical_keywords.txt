@@ -1,0 +1,450 @@
+medicine
+treatment
+doctor
+symptom
+disease
+illness
+pain
+diagnosis
+health
+fever
+infection
+vaccine
+therapy
+injury
+diet
+nutrition
+blood pressure
+bp
+diabetes
+covid
+cancer
+surgery
+allergy
+flu
+virus
+cardiology
+dermatology
+endocrinology
+gastroenterology
+hematology
+neurology
+oncology
+pediatrics
+psychiatry
+radiology
+surgery
+other important terms
+biopsy
+infection
+inflammation
+lesion
+medication
+therapy
+vital signs
+inpatient
+outpatient
+anatomy
+physiology
+histology
+gross anatomy
+microscopic anatomy
+etiology
+pathology
+diagnosis
+prognosis
+symptom
+abdomen
+abdominal
+abortion
+acute
+adenomyosis
+adhesions
+amniocentesis
+amniotic fluid
+amniotic sac
+anaemia
+anaesthesia
+anaesthetist
+anal sphincter
+anaphylaxis
+anomaly scan
+antiphospholipid syndrome
+antenatal
+(prenatal)
+anthracyclines
+antibiotics
+antibody
+anticoagulant medication
+anti-d
+antigen
+anti-inflammatory drugs
+antiretroviral drugs/therapy
+antispasmodic drugs
+anus
+arthritis
+assisted birth
+(instrumental birth/operative vaginal delivery)
+assisted conception/assisted reproductive techniques (art)
+autoimmune response
+bacteria
+bacterial vaginosis (bv)
+bicornuate uterus (womb)
+bile acids
+biopsy
+birth asphyxia
+bladder
+bladder training
+blood group
+body mass index (bmi)
+brachial plexus injury
+brca
+breech position
+ca125
+caesarean birth
+cancer
+candida albicans
+cardiotocography (ctg)
+catheter
+cell
+cephalhaematoma
+cervical screening
+cervix
+chickenpox
+chignon
+chlamydia trachomatis
+cholesterol
+chocolate cysts
+chorioamnionitis
+chromosomal abnormality
+chromosomes
+chronic
+clear margins
+clinical guidelines
+clitoris
+cmv
+colostrum
+colposcope
+colposcopist, colposcopy nurse specialist or nurse colposcopist
+colposcopy
+complementary therapy
+complete miscarriage
+complications
+consultant-led
+conception
+condition
+confidentiality
+continence
+contraception
+corticosteroids
+counsellor
+ctg (cardio-tocograph)
+cystocele
+dilatation and evacuation (d&e)
+deep vein thrombosis (dvt)
+delayed cord clamping
+delayed miscarriage/missed miscarriage/silent miscarriage
+delivery
+depression
+diabetes
+diabetes – type 1
+diabetes – type 2
+diagnosis
+diathermy
+dilatation
+discharge letter
+disease
+donor insemination
+doppler
+dysmenorrhoea
+dyspareunia
+ectopic pregnancy
+early miscarriage
+early pregnancy assessment unit
+eclampsia
+electrocoagulation
+embryo
+emergency caesarean delivery
+endometriosis
+endometritis
+endometrium
+enzyme
+epidural
+episiotomy
+erb’s palsy
+estrogen
+evidence-based medicine
+extended or frank breech
+external cephalic version (ecv)
+allopian tubes
+fecundity
+female genital mutilation (fgm)
+fertilisation
+fertility
+fertility drugs
+fertility problem/infertility/subfertility
+fetus
+fetal medicine specialist
+fibroids
+fimbriae
+first-degree tear
+flexed breech position
+folic acid
+follicle
+follicle-stimulating hormone (fsh)
+footling breech
+forceps delivery
+fourth-degree tear
+gamma globulin (igg)
+gastroenteritis
+gastrointestinal
+gene
+genetic
+genetic counselling
+general anaesthesia
+genitals
+genital herpes
+gestation
+gestational age
+gestational diabetes
+gestational trophoblastic disease (gtd)
+gestational trophoblastic neoplasia (gtn)
+gonadotrophin-releasing hormone agonist
+gonadotrophins
+gonorrhoea
+graduated elastic compression stocking
+group b streptococcus (gbs)
+guideline
+gynaecologist
+highly active antiretroviral therapy (haart or art)
+haematologist
+haemolysis
+haemorrhage
+heart palpitations
+hellp syndrome
+heparin
+herpes
+high-dependency unit
+hormone treatment
+hormones
+hrt
+human chorionic gonadotrophin (hcg)
+human immunodeficiency virus (hiv)
+human papillomavirus or hpv
+hypermobility syndrome
+hyperprolactinaemia
+hypertension
+hypotension
+hypothalamus
+hysterectomy
+hysterosalpingo-contrast-sonography
+hysterosalpingogram (hsg)
+hysteroscopy and endometrial biopsy
+immune system
+immunity
+immunotherapy
+implantation
+in vitro fertilisation (ivf)
+incomplete miscarriage
+incontinence
+induction of labour
+infectious
+infertility/subfertility/fertility problem
+inflammation
+informed decision/choice
+infusion
+intensive care unit
+interstitial cystitis
+intracytoplasmic sperm injection (icsi)
+intrapartum
+intrauterine contraceptive device (iucd)
+intrauterine insemination (iui)
+intrauterine system (ius)
+intravenous drip (iv drip)
+invasive
+irritable bowel syndrome (ibs)
+karyotype
+karyotyping
+ketones
+kidney
+klumpe’s paralysis
+laparoscopic ovarian drilling/diathermy
+labour
+laparoscopy
+laparotomy
+large loop excision of the transformation zone (lletz)
+late miscarriage
+laxatives
+libido
+lletz
+local anaesthetic
+lupus
+luteinising hormone (lh)
+lynch syndrome
+major placenta praevia
+meconium
+medical abortion
+membranes
+mesh
+meningitis
+menopause
+menstrual cycle
+meta-analysis
+metabolism
+miscarriage
+midtrimester
+molar pregnancy
+multiple pregnancy
+musculoskeletal
+neonatal unit
+neonatalologist
+neural tube defects
+obstetrician
+oedema
+oestrogen
+oligohydramnios
+oocyte donation
+os
+ovarian hyperstimulation syndrome (ohss)
+ovaries
+ovulation
+oxytocics
+peer review
+paediatrician
+pelvic
+pelvic congestion
+pelvic examination,
+bimanual/internal
+pelvic floor muscles
+pelvic inflammatory disease (pid)
+pelvic pain
+pelvis
+perineal tear
+perineum
+period
+peritoneum
+pessaries
+physiotherapy
+pituitary gland
+placenta
+placenta accreta
+placenta praevia
+platelets
+polycystic ovaries
+polycystic ovary syndrome (pcos)
+polyhydramnios
+polyp
+post-mortem
+postnatal
+postnatal depression
+postpartum
+postpartum haemorrhage
+pre-eclampsia (also known as toxaemia)
+pregnancy test
+premature birth / preterm birth
+preterm labour
+preterm premature rupture of membranes
+progesterone
+progestogen
+prolactin
+prolapse
+prostaglandin
+proteinuria
+pubic, pubis
+pudendal block
+pulmonary embolus
+randomised controlled trial (rct)
+rectocele
+rectum
+recurrent miscarriage
+reproductive organs
+reproductive years
+retrovirus
+rhd antigen
+risk
+royal college of obstetricians and gynaecologists (rcog)
+rupture of membranes
+sanitary pad
+scientific evidence
+screening
+second-degree tear
+second stage of labour
+sedation
+‘see and treat’
+semen
+sepsis
+severe pre-eclampsia
+sexually transmitted infection (sti)
+shoulder dystocia
+sickle cell disease (scd)
+skin to skin contact
+sonographer
+special care baby unit
+speculum
+sperm
+spina bifida
+spinal anaesthesia
+spontaneous vaginal birth
+sporadic
+sterilisation
+steroids
+stillbirth
+stool (or faeces)
+stress incontinence
+succenturial lobe
+surgical abortion
+sutures
+symphysis fundal height
+symptom
+syndrome
+systematic review
+thrombophilia
+tachycardia
+tampon
+temperature
+term
+testosterone
+third-degree tear
+threatened miscarriage
+thrombosis
+thrush
+to open bowels
+tocolysis
+toxaemia
+toxoplasmosis
+transabdominal scan
+transvaginal scan
+transverse position
+trimester
+tubal occlusion
+ultrasound
+umbilical cord (umbilicus)
+urethra
+urethracele
+urine
+urodynamics
+uterine rupture
+uterine sarcoma
+uterus (also known as womb)
+vagina
+vaginal discharge
+(normal) vaginal discharge
+(abnormal) vaginal discharge
+vaginal examination – internal
+vaginal swab
+vaginal thrush
+varicella
+vas deferens
+vasectomy
+vein
+velamentous cord insertion
+venous thrombosis
+ventouse delivery
+virus
+vulva
+weak cervix
+white cell
+white cell count
+womb
+cervix
+
